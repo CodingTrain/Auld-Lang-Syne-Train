@@ -28,7 +28,7 @@ We'll take a cup o'kindness yet
 And days of auld lang syne
 ```
 
-## Auld Lang Syne (davidskeck)
+## Error on a Line (davidskeck)
 
 ```
 C                        G7
