@@ -56,3 +56,30 @@ We'll take a this and a dot
 And place it where it ought
 ```
 
+## Linux Distros (AllSeerEye)
+
+```
+C               G7
+Ubuntu, debian, manjaro
+
+     C      F
+Arch linux, fedora
+
+C               G7
+Ubuntu, debian, manjaro
+
+Am          F    G7   C
+We can't forget 'bout Pop!_OS
+
+F   C         G7
+Or Linux Mint my dear,
+
+    C            F
+Alpine        Linux
+
+      C            G7
+We'll take Ubuntu Mate yet
+
+    Am   F    G7   C
+And many more to come
+```
