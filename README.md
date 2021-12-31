@@ -113,6 +113,8 @@ I am losing my mind!
 ```
 
 ## Pro ces sing! (Stop Deleting My Songs)
+
+```
        G           D
 Should hexadecimal be forgot
     Em        C
@@ -129,4 +131,5 @@ and JSON it does shine
       G              D
 We'll put the Python in the bin
         Em      C     G
-for the sake of Processing.
+for the sake of Processing...
+```
