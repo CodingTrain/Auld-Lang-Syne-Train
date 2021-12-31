@@ -118,18 +118,18 @@ I am losing my mind!
        G           D
 Should hexadecimal be forgot
     Em        C
-and c# cast aside
+and c# not for today
        G             D
-should Basic just be left to rot
+should Basic just be my childhood memory
         Em      C     G
-for the sake of Processing
+and today I code with Processing
 
     G             D
-For Javascript is fine my dear
+For JavaScript is fine my dear
     G            C
 and JSON it does shine
       G              D
-We'll put the Python in the bin
+We'll put the Python aside for now (but Python is wonderful too!)
         Em      C     G
 for the sake of Processing...
 ```
