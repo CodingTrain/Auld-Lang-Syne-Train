@@ -4,55 +4,27 @@
 
 ```
 C                        G7
-Should auld acquaintance be forgot
+Should tensor dim be denied
 
     C                F
-And never brought to mind
+And cause a fatal error
 
        C                 G7
-Should auld acquaintance be forgot
+Should I lose my mind?
 
 Am          F    G7   C
-And days of auld lang syne
+I'll comment out the working code.
 
 F   C         G7
-For auld lang syne, my dear,
+And start afresh next time
 
     C         F
-For auld lang syne,
+O tensor dim, o tensor dim,
 
       C            G7
-We'll take a cup o'kindness yet
+What is the correct shape?
 
     Am      F    G7   C
-And days of auld lang syne
-```
-
-## Error on a Line (davidskeck)
-
-```
-C                        G7
-Should this dot          be forgot
-
-    C                F
-And never typed in-line
-
-       C                 G7
-Should this dot          be forgot
-
-Am          F    G7   C
-And cause   an error on a line
-
-F   C         G7
-For out of scope ref, my dear,
-
-    C         F
-For simple brain forgot,
-
-      C            G7
-We'll take a this and a dot
-
-    Am      F    G7   C
-And place it where it ought
+I am losing my mind!
 ```
 
